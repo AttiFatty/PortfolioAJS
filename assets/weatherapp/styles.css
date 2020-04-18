@@ -1,0 +1,45 @@
+
+body{
+    background-image: url("images/background-weather.jpg");
+    background-position: 100%;
+    background-size: 160% ;
+}
+
+
+
+.mainDisplay{
+    background-color: whitesmoke;
+    color: darkblue;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 18px;
+}
+
+
+
+#cityName{
+    color: lightseagreen;
+    font-size: 30px;
+    font-style: italic;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+
+/*Im still barely getting the hang of really using the rgb scals*/
+#forecastHeader{
+    background-color: rgb(163, 227, 248);
+    text-align: center;
+    font-family: monospace;
+    text-shadow: black;
+    font-weight: bold;
+    color: black;
+    font-size: 20px;
+   
+}
+
+
+
+.forecastBox{
+    color: teal;
+    font-size: 12px;
+    
+}
